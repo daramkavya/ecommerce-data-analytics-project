@@ -1,0 +1,11 @@
+﻿order_id,customer_id,order_date,total_amount,customer_name,email,phone_number,location,registration_date,order_item_id,product_id,quantity,price_x,product_name,category,price_y,total_revenue
+201,1,01-04-2024,1200,Kavya,kavya@gmail.com,9876543210,Hyderabad,10-01-2024,301,101,1,1200,Kurti,Clothing,1200,1200
+202,2,03-04-2024,55000,Ravi,ravi@gmail.com,9876543211,Chennai,15-02-2024,302,102,1,55000,Laptop,Electronics,55000,55000
+203,3,04-04-2024,700,Meena,meena@gmail.com,9876543212,Bangalore,01-03-2024,303,103,1,700,Lipstick,Beauty,700,700
+204,4,06-04-2024,2500,Arjun,arjun@gmail.com,9876543213,Mumbai,25-01-2024,304,104,1,2500,Handbag,Accessories,2500,2500
+205,5,08-04-2024,3500,Sneha,sneha@gmail.com,9876543214,Delhi,10-02-2024,305,105,1,3500,Mixer Grinder,Home,3500,3500
+206,6,10-04-2024,3000,Rahul,rahul@gmail.com,9876543215,Pune,05-03-2024,306,107,1,3000,Shoes,Fashion,3000,3000
+207,7,11-04-2024,20000,Anjali,anjali@gmail.com,9876543216,Delhi,18-02-2024,307,106,1,20000,Smartphone,Electronics,20000,20000
+208,8,12-04-2024,5000,Vikram,vikram@gmail.com,9876543217,Hyderabad,12-01-2024,308,108,1,5000,Watch,Accessories,5000,5000
+209,9,13-04-2024,900,Priya,priya@gmail.com,9876543218,Chennai,02-04-2024,309,109,1,900,Face Cream,Beauty,900,900
+210,10,14-04-2024,7000,Kiran,kiran@gmail.com,9876543219,Bangalore,20-03-2024,310,110,1,7000,Office Chair,Furniture,7000,7000
